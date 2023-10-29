@@ -38,51 +38,62 @@
         grid-row: span 3;
         border-radius: 50%;
     }
+    p{
+        font-size: xx-large;
+        text-align: center;
+        color: rgb(0, 255, 204);
+        font-family: sans-serif;
+        margin: 0px;
+        padding: 0px;
+        font-size: 12vh;
+        background-color: rgb(234, 0, 255);
+    }
 }
 @media(max-width:2000px) and (min-width:700px){
     body{
-        background-color: #ff4d4d;
-
+        background-color: rgb(255, 255, 255);
+        font-family:sans-serif;
     }
     h3{
-        color: rgb(238, 255, 0);
+        color: rgb(0, 0, 0);
         font-size: 30px;
-        margin: none;
+        background-color: rgb(12, 203, 203)
     }
     li{
         color: rgb(0, 0, 0);
         font-size: x-large;
-        background-color: rgb(12, 203, 203)
+
     }
     .button{
-        background-color: blue;
-        color: rgb(229, 255, 0);
+        background-color: rgb(12, 203, 203);
+        color: rgb(0, 0, 0);
         font-size: x-large;
         height: 50px;
-        border-radius: 25px;
+        border-radius: 10px;
     }
     .button:hover{
-        background-color: rgb(43, 255, 0);
-        color: blue;
+        color: blue;    
     }
     .button:active{
         background-color: lightblue;
         color: white;
     }
     .Hyper{
-        color: rgb(255, 247, 0);
-        font-family: cursive;
+        color: rgb(0, 0, 0);
     }
     img{
         height: 300px;
         grid-row: span 3;
         border-radius: 50%;
     }
-    .grid1{
-        display: grid;
-        grid-template-rows: 100px 100px 100px;
-        grid-template-columns: 50vw 50vw;
-        background-color: rgb(255, 255, 255);
-        max-width: 500px;
+    p{
+        font-size: xx-large;
+        text-align: center;
+        color: rgb(0, 255, 204);
+        font-family: sans-serif;
+        margin: 0px;
+        padding: 0px;
+        font-size: 12vh;
+        background-color: rgb(234, 0, 255);
     }
 }
