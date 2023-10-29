@@ -1,12 +1,12 @@
 @media(max-width:700px){
     body{
         text-align: center;
-        font-family: cursive;
-        background-color: rgb(255, 79, 79);
+        font-family:cursive;
+        background-color: rgb(255, 255, 255);
 
     }
     h3{
-        color: rgb(217, 255, 0);
+        color: rgb(0, 0, 0);
         font-size: 30px;
     }
     li{
@@ -16,7 +16,7 @@
     }
     .button{
         background-color: rgb(45, 115, 255);
-        color: rgb(229, 255, 0);
+        color: rgb(0, 0, 0);
         font-size: x-large;
         height: 50px;
         border-radius: 25px;
@@ -30,7 +30,7 @@
         color: white;
     }
     .Hyper{
-            color: rgb(229, 255, 15);
+            color: rgb(0, 0, 0);
         text-align: center;
     }
     img{
