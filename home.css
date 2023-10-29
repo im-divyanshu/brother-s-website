@@ -8,18 +8,19 @@
     h3{
         color: rgb(0, 0, 0);
         font-size: 30px;
+        background-color: rgb(12, 203, 203)
     }
     li{
         color: rgb(0, 0, 0);
         font-size: x-large;
-        background-color: rgb(12, 203, 203)
+
     }
     .button{
-        background-color: rgb(45, 115, 255);
+        background-color: rgb(12, 203, 203);
         color: rgb(0, 0, 0);
         font-size: x-large;
         height: 50px;
-        border-radius: 25px;
+        border-radius: 10px;
     }
     .button:hover{
         background-color: rgb(0, 255, 47);
